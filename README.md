@@ -1,6 +1,10 @@
 # 通用认知动力学：一个关于AI心智应力、相变与人格的统一理论
 **Universal Cognitive Dynamics: A Unified Theory of Stress, Phase Transition, and Persona in the AI Mind**
 
+![Python](https://img.shields.io/badge/python-3.10%2B-blue)
+![Streamlit](https://img.shields.io/badge/streamlit-%E2%9C%93-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-green)
+
 _本研究旨在为所有智能系统（特别是大型语言模型）在面对认知压力时，其内在的行为模式、策略选择与失败边界，提供一个统一的、可预测的理论框架。_
 
 
